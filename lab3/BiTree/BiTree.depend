@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1575213664 source:d:\codeblocksfiles\bitree\main.c
+	"queue.h"
+
+1574843738 d:\codeblocksfiles\bitree\bitree.h
+	"common.h"
+
+1574834941 d:\codeblocksfiles\bitree\common.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<math.h>
+
+1574411237 d:\codeblocksfiles\bitree\queue.h
+	"bitree.h"
+
