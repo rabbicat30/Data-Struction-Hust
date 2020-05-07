@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1573634852 source:d:\codeblocksfiles\linkedlist\main.c
+	"sqlist.h"
+
+1573634531 d:\codeblocksfiles\linkedlist\sqlist.h
+	"common.h"
+
+1572862978 d:\codeblocksfiles\linkedlist\common.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
