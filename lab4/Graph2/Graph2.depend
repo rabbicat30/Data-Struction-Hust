@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1576400019 source:d:\codeblocksfiles\graph2\main.c
+	"queue.h"
+
+1576241111 d:\codeblocksfiles\graph2\queue.h
+	"graph.h"
+
+1576241580 d:\codeblocksfiles\graph2\graph.h
+	"common.h"
+
+1576045449 d:\codeblocksfiles\graph2\common.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<math.h>
+
